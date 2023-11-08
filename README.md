@@ -13,7 +13,7 @@ ___
 **Non-Opaque to Hashed** > converts all non-opaque materials of selected selected objects to alpha hashed blend mode. usefull for changing the default "alpha blend" blending mode of hair cards to visually better looking "alpha hashed" blend mode.  
 - select all parts of the model in object mode (make sure armature is not selected) and click on the button. it leaves the opaque materials and only converts alpha clip and alpha blend materials to alpha hashed
 ___
-**"Opaque"** **"Alpha Blen"d** **"Alpha Hashed"** **"Alpha Clip"** > converts the blending mode of all selected objects to the selected blend mode. useful for batch fixing some messed up xps models that even their opaque parts use the wrong alpha blend blending mode.   
+**"Opaque"** **"Alpha Blend"** **"Alpha Hashed"** **"Alpha Clip"** > converts the blending mode of all selected objects to the selected blend mode. useful for batch fixing some messed up xps models that even their opaque parts use the wrong alpha blend blending mode.   
 - select all parts of the model in object mode (make sure armature is not selected) and click on the button    
 ___
 **_For bone fixes buttons to properly work, you have to press "XPS to Blender" button first in the XPS Bones section of the base xps addon_**  
