@@ -3,7 +3,7 @@ It contains some extra features that are added on top of the base xps tools addo
 
 # installation
 First You need to install the base [xps tools 2.0.2](https://github.com/johnzero7/XNALaraMesh/releases/tag/v2.0.2) addon.  
-Install this addon next. (Edit > Preferences > Add-ons > install > Select the "xps_extender_tools.py")  
+Install this addon next. (Edit > Preferences > Add-ons > install > Select the zipped file")  
 A new "XPS Fixes" section will be added to the xps panel in the sidebar.
 
 # Instructions
